@@ -15,7 +15,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: var(--cor-body);
-
+    transition: background-color 30s;
 }
 
 #cor{
